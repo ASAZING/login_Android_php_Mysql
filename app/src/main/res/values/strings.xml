@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login PHP</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="top_icon">MY LOGIN</string>
+</resources>

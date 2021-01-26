@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login PHP</string>
+    <string name="top_icon">MI LOGIN</string>
+    <string name="email">Email</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="password">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTRAR</string>
+    <string name="forgot_password">¿OLVIDASTE TU CONTRASEÑA?</string>
+    <string name="or">O</string>
+    <string name="already_have_an_account">¿Ya Tienes una Cuenta?</string>
+    <string name="new_user_register_now">¿Nuevo Usuario? Registrate Ahora !</string>
+</resources>
